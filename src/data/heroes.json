@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "name": "Infernus",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/inferno_card.png",
+    "winRate": 0.5269134583391472,
+    "pickRate": 0.03539449332777483,
+    "role": "flex"
+  },
+  {
+    "id": 2,
+    "name": "Seven",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/gigawatt_card.png",
+    "winRate": 0.5563056407490397,
+    "pickRate": 0.03310343792698188,
+    "role": "flex"
+  },
+  {
+    "id": 3,
+    "name": "Vindicta",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/hornet_card.png",
+    "winRate": 0.4839410838831482,
+    "pickRate": 0.023441980467952553,
+    "role": "flex"
+  },
+  {
+    "id": 4,
+    "name": "Lady Geist",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/spectre_card.png",
+    "winRate": 0.5190776394929045,
+    "pickRate": 0.026228087324892464,
+    "role": "flex"
+  },
+  {
+    "id": 6,
+    "name": "Abrams",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/bull_card.png",
+    "winRate": 0.5030629312147188,
+    "pickRate": 0.02271300829497298,
+    "role": "flex"
+  },
+  {
+    "id": 7,
+    "name": "Wraith",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/wraith_card.png",
+    "winRate": 0.5018863411861261,
+    "pickRate": 0.028987981385305457,
+    "role": "flex"
+  },
+  {
+    "id": 8,
+    "name": "McGinnis",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/engineer_card.png",
+    "winRate": 0.5094225098210843,
+    "pickRate": 0.01822872061086073,
+    "role": "flex"
+  },
+  {
+    "id": 10,
+    "name": "Paradox",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/chrono_card.png",
+    "winRate": 0.4697259892063909,
+    "pickRate": 0.020950625111089784,
+    "role": "flex"
+  },
+  {
+    "id": 11,
+    "name": "Dynamo",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/sumo_card.png",
+    "winRate": 0.5566116827114416,
+    "pickRate": 0.034721650729967024,
+    "role": "flex"
+  },
+  {
+    "id": 12,
+    "name": "Kelvin",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/kelvin_card.png",
+    "winRate": 0.5428695267211667,
+    "pickRate": 0.020487627346348018,
+    "role": "flex"
+  },
+  {
+    "id": 13,
+    "name": "Haze",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/haze_card.png",
+    "winRate": 0.5662001181318713,
+    "pickRate": 0.04156499512760147,
+    "role": "flex"
+  },
+  {
+    "id": 14,
+    "name": "Holliday",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/astro_card.png",
+    "winRate": 0.4437198731960106,
+    "pickRate": 0.01312216393093555,
+    "role": "flex"
+  },
+  {
+    "id": 15,
+    "name": "Bebop",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/bebop_card.png",
+    "winRate": 0.44813780323678,
+    "pickRate": 0.02808625168738942,
+    "role": "flex"
+  },
+  {
+    "id": 16,
+    "name": "Calico",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/nano_card.png",
+    "winRate": 0.49918422393967404,
+    "pickRate": 0.01947150158532809,
+    "role": "flex"
+  },
+  {
+    "id": 17,
+    "name": "Grey Talon",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/archer_card.png",
+    "winRate": 0.46849224927862887,
+    "pickRate": 0.012556831788448295,
+    "role": "flex"
+  },
+  {
+    "id": 18,
+    "name": "Mo & Krill",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/digger_card.png",
+    "winRate": 0.5074266254012448,
+    "pickRate": 0.024764539518806184,
+    "role": "flex"
+  },
+  {
+    "id": 19,
+    "name": "Shiv",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/shiv_card.png",
+    "winRate": 0.45455286086717894,
+    "pickRate": 0.022149433169644232,
+    "role": "flex"
+  },
+  {
+    "id": 20,
+    "name": "Ivy",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/tengu_card.png",
+    "winRate": 0.5284193373357519,
+    "pickRate": 0.02704329579948958,
+    "role": "flex"
+  },
+  {
+    "id": 25,
+    "name": "Warden",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/warden_card.png",
+    "winRate": 0.5199380881624567,
+    "pickRate": 0.01917523050284359,
+    "role": "flex"
+  },
+  {
+    "id": 27,
+    "name": "Yamato",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/yamato_card.png",
+    "winRate": 0.4896869529054285,
+    "pickRate": 0.021238491003383587,
+    "role": "flex"
+  },
+  {
+    "id": 31,
+    "name": "Lash",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/lash_card.png",
+    "winRate": 0.49423088155890854,
+    "pickRate": 0.03333237251404035,
+    "role": "flex"
+  },
+  {
+    "id": 35,
+    "name": "Viscous",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/viscous_card.png",
+    "winRate": 0.47682738993838997,
+    "pickRate": 0.01862172261096359,
+    "role": "flex"
+  },
+  {
+    "id": 50,
+    "name": "Pocket",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/synth_card.png",
+    "winRate": 0.4764602394534604,
+    "pickRate": 0.018030700028401944,
+    "role": "flex"
+  },
+  {
+    "id": 52,
+    "name": "Mirage",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/mirage_card.png",
+    "winRate": 0.4887463125930238,
+    "pickRate": 0.02300358094342989,
+    "role": "flex"
+  },
+  {
+    "id": 58,
+    "name": "Vyper",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/kali_card.png",
+    "winRate": 0.48067394889449433,
+    "pickRate": 0.01315925123906512,
+    "role": "flex"
+  },
+  {
+    "id": 60,
+    "name": "Sinclair",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/magician_card.png",
+    "winRate": 0.4569976306676657,
+    "pickRate": 0.011724765446519556,
+    "role": "flex"
+  },
+  {
+    "id": 63,
+    "name": "Mina",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/vampirebat_card.png",
+    "winRate": 0.46209995079700605,
+    "pickRate": 0.03455141001339274,
+    "role": "flex"
+  },
+  {
+    "id": 64,
+    "name": "Drifter",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/drifter_card.png",
+    "winRate": 0.502800518278683,
+    "pickRate": 0.03247167154112296,
+    "role": "flex"
+  },
+  {
+    "id": 65,
+    "name": "Venator",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/priest_card.png",
+    "winRate": 0.4697578403923363,
+    "pickRate": 0.0367369494107748,
+    "role": "flex"
+  },
+  {
+    "id": 66,
+    "name": "Victor",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/frank_card.png",
+    "winRate": 0.5267871483989038,
+    "pickRate": 0.019512672771177436,
+    "role": "flex"
+  },
+  {
+    "id": 67,
+    "name": "Paige",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/bookworm_card.png",
+    "winRate": 0.5215720776433286,
+    "pickRate": 0.03351833141114073,
+    "role": "flex"
+  },
+  {
+    "id": 69,
+    "name": "The Doorman",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/doorman_card.png",
+    "winRate": 0.497817086003738,
+    "pickRate": 0.03244598110104857,
+    "role": "flex"
+  },
+  {
+    "id": 72,
+    "name": "Billy",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/punkgoat_card.png",
+    "winRate": 0.48488111697466557,
+    "pickRate": 0.024385973551573226,
+    "role": "flex"
+  },
+  {
+    "id": 76,
+    "name": "Graves",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/necro_card.png",
+    "winRate": 0.5307606508616919,
+    "pickRate": 0.04342586624626153,
+    "role": "flex"
+  },
+  {
+    "id": 77,
+    "name": "Apollo",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/fencer_card.png",
+    "winRate": 0.5044285389028383,
+    "pickRate": 0.02961675609329989,
+    "role": "flex"
+  },
+  {
+    "id": 79,
+    "name": "Rem",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/familiar_card.png",
+    "winRate": 0.45868225859948514,
+    "pickRate": 0.04853484476064844,
+    "role": "flex"
+  },
+  {
+    "id": 80,
+    "name": "Silver",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/werewolf_card.png",
+    "winRate": 0.4766182645516918,
+    "pickRate": 0.026757661793856583,
+    "role": "flex"
+  },
+  {
+    "id": 81,
+    "name": "Celeste",
+    "imageUrl": "https://assets-bucket.deadlock-api.com/assets-api-res/images/heroes/unicorn_card.png",
+    "winRate": 0.46457189335871735,
+    "pickRate": 0.026739141883266915,
+    "role": "flex"
+  }
+]
