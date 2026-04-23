@@ -1,5 +1,7 @@
 # Deadlock Drafter
 
+Live: https://draft-analyzer-olive.vercel.app/
+
 I play Deadlock in ascendant and wanted a tool to analyse drafts, so I built one. Pick six heroes on each side and the app gives you a team score, a matchup grid, and a list of suggested next picks. All the data comes from the community Deadlock API.
 
 ## Running it
